@@ -54,7 +54,14 @@ Voice_AI_Assistant/
 
 ### Home Screen
 
-(Add screenshot here)
+![Home Screen](assets/home.png)
+
+
+### Chat Conversation
+
+![Chat Conversation](assets/chat.png)
+
+
 
 ---
 
