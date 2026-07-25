@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# Temporary Files
+temp/
+*.mp3
+*.wav
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
